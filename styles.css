@@ -9,7 +9,7 @@ p,
 h1,
 h2,
 h3 {
-  max-width: 75ch;
+  max-width: 70ch;
 }
 /* Colors for the ripple elements.*/
 /* stylelint-disable-next-line material/theme-mixin-api */
